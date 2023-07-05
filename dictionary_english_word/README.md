@@ -42,7 +42,13 @@ Aqui estão algumas capturas de tela do meu aplicativo:
 - Recurso 2: Salvar Historico e Favoritos.
 - Recurso 3: Ouvir pronuncia da palavra em Inglês.
 
-## Como usar
+## Instalação e Uso
+1. Clone este repositório.
+2. Certifique-se de ter o Flutter instalado em seu ambiente de desenvolvimento.
+3. Navegue até o diretório raiz do projeto no terminal.
+4. Execute o comando `flutter pub get` para obter as dependências do projeto.
+5. Conecte seu dispositivo móvel ou inicie um emulador.
+6. Execute o comando `flutter run` para iniciar o aplicativo no dispositivo/emulador.
 
 
 ## Referência
