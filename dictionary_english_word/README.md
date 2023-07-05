@@ -52,7 +52,7 @@ Aqui estão algumas capturas de tela do meu aplicativo:
 
 ## Download
 
-Você pode baixar a versão mais recente do aplicativo no [releases]([LINK_PARA_AS_RELEASES](https://github.com/Ednacio/desafio-dictionary/releases/tag/1.0.0#:~:text=1.0.0-,1.0.0,-Latest)) do GitHub.
+Você pode baixar a versão mais recente do aplicativo no [1.0.0](https://github.com/Ednacio/desafio-dictionary/releases/tag/1.0.0#:~:text=1.0.0-,1.0.0,-Latest) do GitHub.
 
 ## Referência
 Este projeto é parte do desafio proposto pela Coodesh (https://coodesh.com/). Obrigado à Coodesh por fornecer o desafio e a oportunidade de aprimorar minhas habilidades de desenvolvimento.
