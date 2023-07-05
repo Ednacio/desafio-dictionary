@@ -1,6 +1,6 @@
 # Nome do seu App
 
-![Dictionary English Word]
+## Dictionary English Word
 
 Este é o repositório oficial do meu desafio dictionary. Ele oferece recursos úteis para os usuários e tem como objetivo tornar suas vidas mais fáceis.
 
@@ -8,19 +8,22 @@ Este é o repositório oficial do meu desafio dictionary. Ele oferece recursos �
 
 Aqui estão algumas capturas de tela do meu aplicativo:
 
-![Tela principal]<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 15" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/7a1089a0-2e5c-4af4-b676-b5e9d8115ab5">
+<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 15" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/7a1089a0-2e5c-4af4-b676-b5e9d8115ab5">
+
 *Exibição de palavras: A página exibe uma grade de palavras, onde cada palavra é representada por um cartão na grade.
 
 *Favoritar palavras: O usuário pode favoritar palavras ao pressionar e segurar um cartão de palavra. As palavras favoritas são armazenadas na lista favoritesWord e são destacadas com um ícone de coração vermelho.
 
 
-![Tela History]<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 09" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/164cdb98-5638-425b-aae2-210c80743729">
+<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 09" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/164cdb98-5638-425b-aae2-210c80743729">
+
 *Exibição de palavras vista anteriorment: A página exibe uma grade de palavras salvas apos clicar.
 
-![Tela Favorites]<img width="386" alt="Captura de Tela 2023-07-05 às 10 05 01" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/7278285f-0428-4bfa-aaf5-5de578ad95e2">
+<img width="386" alt="Captura de Tela 2023-07-05 às 10 05 01" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/7278285f-0428-4bfa-aaf5-5de578ad95e2">
+
 *Palavras favoritas : O usuário pode as palavras favoritas.
 
-![Tela Favorites]<img width="430" alt="Captura de Tela 2023-07-05 às 10 23 11" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/4317e82b-8e59-4a29-9897-a5dcea5dadd0">
+<img width="430" alt="Captura de Tela 2023-07-05 às 10 23 11" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/4317e82b-8e59-4a29-9897-a5dcea5dadd0">
 
 *Salvar dados: Ao selecionar a opção "Favorites" na barra de navegação superior, o usuário pode salvar as palavras favoritas e o histórico. Isso exibe um diálogo de confirmação para indicar que os dados foram salvos com sucesso.
 
