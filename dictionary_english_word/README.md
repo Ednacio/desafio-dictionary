@@ -11,8 +11,9 @@ Aqui estão algumas capturas de tela do meu aplicativo:
 ![Tela de boas-vindas](caminho/para/tela_boas_vindas.png)
 *Descrição da tela de boas-vindas*
 
-![Tela principal](desafio-mobile/img/wireframe.png)
+![Tela principal]<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 15" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/7a1089a0-2e5c-4af4-b676-b5e9d8115ab5">
 *Descrição da telaimage.png
+
 
 ![Tela principal](image.png)
 *Descrição da telaimage.png
