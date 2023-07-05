@@ -27,15 +27,16 @@ Aqui estão algumas capturas de tela do meu aplicativo:
 
 *Salvar dados: Ao selecionar a opção "Favorites" na barra de navegação superior, o usuário pode salvar as palavras favoritas e o histórico. Isso exibe um diálogo de confirmação para indicar que os dados foram salvos com sucesso.
 
-![Tela Word]<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 24" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/3b3d00ae-2375-4093-bfe0-3ba7ea500a7e">
-*Descrição da telaimage.png
+<img width="430" alt="Captura de Tela 2023-07-05 às 10 05 24" src="https://github.com/Ednacio/desafio-dictionary/assets/83678426/3b3d00ae-2375-4093-bfe0-3ba7ea500a7e">
+
+*Esculte e leia a pronuncia da palavra em Inglês.
 
 
 ## Recursos
 
-- Recurso 1: Lista de Palavras em Ingles.
+- Recurso 1: Lista de Palavras em Inglês.
 - Recurso 2: Salvar Historico e Favoritos.
-- Recurso 3: Ouvir pronuncia da palavra em Ingles.
+- Recurso 3: Ouvir pronuncia da palavra em Inglês.
 
 ## Como usar
 
