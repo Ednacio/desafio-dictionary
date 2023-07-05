@@ -1,6 +1,6 @@
-# Nome do seu App
+# Dictionary English Word
 
-## Dictionary English Word
+
 
 Este é o repositório oficial do meu desafio dictionary. Ele oferece recursos úteis para os usuários e tem como objetivo tornar suas vidas mais fáceis.
 
