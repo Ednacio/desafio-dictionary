@@ -4,6 +4,10 @@
 
 Este é o repositório oficial do meu desafio dictionary. Ele oferece recursos úteis para os usuários e tem como objetivo tornar suas vidas mais fáceis.
 
+## Tecnologias Utilizadas
+- Linguagem: Dart
+- Framework: Flutter
+
 ## Capturas de tela
 
 Aqui estão algumas capturas de tela do meu aplicativo:
@@ -41,4 +45,6 @@ Aqui estão algumas capturas de tela do meu aplicativo:
 ## Como usar
 
 
-Agradecemos por usar o nosso aplicativo! Esperamos que ele atenda às suas necessidades e seja útil em seu dia a dia.
+## Referência
+Este projeto é parte do desafio proposto pela Coodesh (https://coodesh.com/). Obrigado à Coodesh por fornecer o desafio e a oportunidade de aprimorar minhas habilidades de desenvolvimento.
+
